@@ -11,4 +11,7 @@ git add *
 
 git commit -m "initial commit"
 
+use different commands like add and commit seperately when adding any file for the first
+time in git.
+
 git commit -a -m "message"-----------------this will only used for those files 
