@@ -23,3 +23,13 @@ git commit -a -m "message"-----------------this will only used for those files.
 git branch -M main
  git remote add origin https://github.com/snehalraipure/gitpractice.git
 git push -u origin main
+
+### after using above commands for repo/folder u need to use given command to upload data every time
+git push
+
+###
+git remote -v
+git remote
+git log
+note:-"after git log perform...too come outside it we have to perform q command"
+git remote rm origin2 -----to delete any variable
