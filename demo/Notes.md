@@ -33,3 +33,5 @@ git remote
 git log
 note:-"after git log perform...too come outside it we have to perform q command"
 git remote rm origin2 -----to delete any variable
+git rm --cached waste.html -----it will be in our windows only from small memory it will be removed.
+.gitignore file ---- add name waste.html there then git will ignore it in its commands.
