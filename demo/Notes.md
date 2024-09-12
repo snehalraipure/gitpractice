@@ -12,6 +12,14 @@ git add *
 git commit -m "initial commit"
 
 use different commands like add and commit seperately when adding any file for the first
-time in git.
+time in git.  
 
-git commit -a -m "message"-----------------this will only used for those files 
+git commit -a -m "message"-----------------this will only used for those files.  
+
+
+
+### use below commands for only oce when pushing data for the first time
+
+git branch -M main
+ git remote add origin https://github.com/snehalraipure/gitpractice.git
+git push -u origin main
