@@ -29,7 +29,7 @@ git push
 
 ###
 git remote -v
-git remote
+git remote ----to check vaiable
 git log
 note:-"after git log performed...to come outside it we have to perform q command"
 git remote rm origin2 -----to delete any variable
@@ -37,4 +37,6 @@ git rm --cached < file name > -----it will be in our windows only from small mem
 .gitignore file ---- add name waste.html there then git will ignore it in its commands.
 git rm < file name > ---to permanently delete the file
 creation of gitignore
-git mv old file name new file name ----to rename
+git mv < old file name > < new file name > ----to rename 
+git clone---keep in laptop
+fork---- repository copy will keep online (github)  
