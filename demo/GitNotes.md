@@ -42,3 +42,6 @@ git clone---keep in laptop
 fork---- repository copy will keep online (github)  
 git diff---it tells the difference which we made in file
 git diff file name
+git checkout filename ----this will work if you have not performed add or commit 
+(whatever we made changes it will remove and make as it is from that particular file)
+git checkout -f ----it will remove the changes we have made in every file before add or commit.
