@@ -40,5 +40,5 @@ creation of gitignore
 git mv < old file name > < new file name > ----to rename 
 git clone---keep in laptop
 fork---- repository copy will keep online (github)  
-git diff
+git diff---it tells the difference which we made in file
 git diff file name
