@@ -47,3 +47,7 @@ git checkout filename ----this will work if you have not performed add or commit
 git checkout -f ----it will remove the changes we have made in every file before add or commit.
  git revert 
 git reset
+git branch ----to see different branches name
+git branch < branch name > ---create new branch
+git checkout < branch name > ---ex git checkout demo ---switch branch
+or git switch < branch name >
