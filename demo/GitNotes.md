@@ -18,7 +18,7 @@ git commit -a -m "message"-----------------this will only used for those files.
 
 
 
-### use below commands for only oce when pushing data for the first time
+### use below commands for only once when pushing data for the first time
 
 git branch -M main
  git remote add origin https://github.com/snehalraipure/gitpractice.git
@@ -29,7 +29,7 @@ git push
 
 ###
 git remote -v
-git remote ----to check vaiable
+git remote ----to check variable
 git log
 note:-"after git log performed...to come outside it we have to perform q command"
 git remote rm origin2 -----to delete any variable
@@ -41,7 +41,9 @@ git mv < old file name > < new file name > ----to rename
 git clone---keep in laptop
 fork---- repository copy will keep online (github)  
 git diff---it tells the difference which we made in file
-git diff file name
+git diff file name 
 git checkout filename ----this will work if you have not performed add or commit 
 (whatever we made changes it will remove and make as it is from that particular file)
 git checkout -f ----it will remove the changes we have made in every file before add or commit.
+ git revert 
+git reset
